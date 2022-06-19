@@ -1,0 +1,17 @@
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\bin\Debug\net6.0\Shopping.Infrastructure.deps.json
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\bin\Debug\net6.0\Shopping.Infrastructure.dll
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\bin\Debug\net6.0\Shopping.Infrastructure.pdb
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\bin\Debug\net6.0\Shopping.Application.dll
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\bin\Debug\net6.0\Shopping.Domain.dll
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\bin\Debug\net6.0\Shopping.Application.pdb
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\bin\Debug\net6.0\Shopping.Domain.pdb
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.csproj.AssemblyReference.cache
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.AssemblyInfoInputs.cache
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.AssemblyInfo.cs
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.csproj.CoreCompileInputs.cache
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.csproj.CopyComplete
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.dll
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\refint\Shopping.Infrastructure.dll
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\Shopping.Infrastructure.pdb
+E:\seek\mygit\CleanPOC\Shopping.Infrastructure\obj\Debug\net6.0\ref\Shopping.Infrastructure.dll
